@@ -1,6 +1,6 @@
 # SuggestaResto
 ## Description
-Suggesta Resto is a GUI personal project created by Adrian Delfin. It suggests randomly restaurants based on the user's choice of types of cuisine.
+Suggesta Resto is a GUI personal project created by Adrian Delfin. It randomly suggests restaurants based on the user's choice of types of cuisine.
 
 ## Tools/Technologies Required
 Python
